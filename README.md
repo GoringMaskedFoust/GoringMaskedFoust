@@ -3,7 +3,7 @@
 Hello! Glad to have you on my profile! My name is **Seth** or **Setha** but you can call me Goring or Masked! (*whichever you prefer*).
 I was born in Tallinn, Estonia. I translate songs for my YouTube channel and also dabble in Photoshop and a bit of design, though most of my focus is on **IT!**
 #### ────────── **I’m currently working on** ... ML Engineer. RAG, Fine-Tuning (LoRA), Evaluation. PyTorch, vLLM, Qdrant.
-#### ──────── **I’m currently learning** ... Security / CyberSecurity. AppSec, Threat modeling and Cryptography.
+#### ──────── **I’m currently learning** ... Security / CyberSecurity. AppSec, Threat modeling and Cryptography. (*KDF - argon2, scrypt*)
 #### ─────── **Pronouns** ─ [My Pronouns](https://en.pronouns.page/@goringmfx) ; Please respect my personal boundaries.
 #### ────── **Links** ─ [My Other Social Media Accounts.](https://goringall7.carrd.co) Yeah, I'm there!
 
@@ -12,16 +12,25 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 > [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript&theme=dark)](https://skillicons.dev)
 
 > ### **Software I Use:**
+> [![Security](https://skillicons.dev/icons?i=linux,cloudflare&perline=12)](https://skillicons.dev)
+
 > [![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,anaconda,matlab,pycharm,vscode,fastapi,flask&theme=dark)](https://skillicons.dev)
 
 > [![Infra](https://skillicons.dev/icons?i=docker,kubernetes,postgres,elasticsearch,prometheus,grafana,gcp,terraform,githubactions&perline=12)](https://skillicons.dev)
 
-> [![Hobby](https://skillicons.dev/icons?i=ableton,au,pr,ae,ps,blender,unity,godot,robloxstudio,md,notion,spotify&perline=12)](https://skillicons.dev)
+> [![Hobby](https://skillicons.dev/icons?i=au,pr,ae,ps,blender,unity,godot,md,notion,spotify&perline=12)](https://skillicons.dev)
 
 ![vLLM](https://img.shields.io/badge/vLLM-inference-2b2b2b)
 ![Qdrant](https://img.shields.io/badge/Qdrant-vector%20DB-dc244c)
 ![RAGAS](https://img.shields.io/badge/RAGAS-eval-6b4fbb)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-transformers-ffd21e)
+
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-STRIDE-4b5563)
+![Semgrep](https://img.shields.io/badge/Semgrep-SAST-1b1f23)
+![Trivy](https://img.shields.io/badge/Trivy-image%20scanning-1904da)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-TLS-721412)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-secrets-000000)
 
 ## About Me
 
