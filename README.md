@@ -7,6 +7,10 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 #### ─────── **Pronouns** ─ [My Pronouns](https://en.pronouns.page/@goringmfx) ; Please respect my personal boundaries.
 #### ────── **Links** ─ [My Other Social Media Accounts.](https://goringall7.carrd.co) Yeah, I'm there!
 
+
+### **Programming Languages I Know:**
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript&theme=dark)](https://skillicons.dev)
+
 ## About Me
 
 ─ **I'M** a music obsessive! And the all genres thing is real but lazy — the truth is Post-Hardcore and Post-Punk and Emo Metalcore, Metalcore, Free Jazz, and whatever sits between them. I collect records, sequence playlists like mixtapes instead of shuffling, and my archive is public because half the point is someone else finding something. **Concerts:** Regularly, more than my ears deserve!
