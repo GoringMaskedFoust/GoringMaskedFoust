@@ -21,6 +21,6 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 
 ─ **AS** a **Transgender** and **Non-Binary** dividual, I **DO NOT** support **Sweet Baby Inc** or ideologically driven approaches to **DEI.** I distance myself both from far-right ideologies and from the excesses of so-called *'woke'* culture. My values are rooted in pragmatism and reasonable discourse. Some people have distanced themselves after learning that I am transgender. Yes, it’s happened — but I don’t hold it against anyone. I already have a close circle of friends who accept me for who I am. Why I transitioned is not your concern; I’ll simply say that I’m happy in my new body. *(It no longer matters whether I was a boy or a girl)*
 
-────── I use a different account for work. This is my personal account (and I use it a little for studying) so there's nothing on it. ──────
+─── I use a different account for work. This is my personal account (and I use it a little for studying) so there's nothing on it. ───
 
 ## Thanks For Visiting, See You Later! *(Maybe)*
