@@ -18,6 +18,11 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 
 > [![Hobby](https://skillicons.dev/icons?i=ableton,au,pr,ae,ps,blender,unity,godot,robloxstudio,md,notion,spotify&perline=12)](https://skillicons.dev)
 
+![vLLM](https://img.shields.io/badge/vLLM-inference-2b2b2b)
+![Qdrant](https://img.shields.io/badge/Qdrant-vector%20DB-dc244c)
+![RAGAS](https://img.shields.io/badge/RAGAS-eval-6b4fbb)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-transformers-ffd21e)
+
 ## About Me
 
 ─ **I'M** a music obsessive! And the all genres thing is real but lazy — the truth is Post-Hardcore and Post-Punk and Emo Metalcore, Metalcore, Free Jazz, and whatever sits between them. I collect records, sequence playlists like mixtapes instead of shuffling, and my archive is public because half the point is someone else finding something. **Concerts:** Regularly, more than my ears deserve!
