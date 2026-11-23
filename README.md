@@ -8,8 +8,8 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 #### ────── **Links** ─ [My Other Social Media Accounts.](https://goringall7.carrd.co) Yeah, I'm there!
 
 
-### **Programming Languages I Know:**
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript&theme=dark)](https://skillicons.dev)
+> ### **Programming Languages I Know:**
+> [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript&theme=dark)](https://skillicons.dev)
 
 ## About Me
 
