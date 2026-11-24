@@ -2,11 +2,11 @@
 
 Hello! Glad to have you on my profile! My name is **Seth** or **Setha** but you can call me Goring or Masked! (*whichever you prefer*).
 I was born in Tallinn, Estonia. I translate songs for my YouTube channel and also dabble in Photoshop and a bit of design, though most of my focus is on **IT!**
-#### ──────────────── **I’m currently building** ...  a RAG Pipeline — Hybrid Retrieval, Reranking, Evaluation.
-#### ──────── **I’m currently learning** ... AppSec — Threat Modeling (*STRIDE*), Password Hashing (*argon2, scrypt*).
-#### ─────── **Looking for** ─ Collabs on LLM-Tooling and security-minded *side* projects.
-#### ────── **Pronouns** ─ [My Pronouns](https://en.pronouns.page/@goringmfx) ; Please respect my personal boundaries.
-#### ───── **Links** ─ [My Other Social Media Accounts.](https://goringall7.carrd.co) Yeah, I'm there!
+#### ──────────────── **I’m currently learning** ... AppSec — Threat Modeling (*STRIDE*), Password Hashing (*argon2, scrypt*).
+#### ─────────────── **I’m currently building** ...  a RAG Pipeline — Hybrid Retrieval, Reranking, Evaluation.
+#### ──────────── **Looking for** ─ Collabs on LLM-Tooling and security-minded *side* projects.
+#### ─────────── **Pronouns** ─ [My Pronouns](https://en.pronouns.page/@goringmfx) ; Please respect my personal boundaries.
+#### ────────── **Links** ─ [My Other Social Media Accounts.](https://goringall7.carrd.co) Yeah, I'm there!
 
 
 > ### **Programming Languages I Know:**
