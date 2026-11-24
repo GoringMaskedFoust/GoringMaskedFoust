@@ -8,6 +8,7 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 #### ─────────── **Pronouns** ─ [My Pronouns](https://en.pronouns.page/@goringmfx) ; Please respect my personal boundaries.
 #### ────────── **Links** ─ [My Other Social Media Accounts.](https://goringall7.carrd.co) Yeah, I'm there!
 
+ <hr>
 
 > ### **Programming Languages I Know:**
 > [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript&theme=dark)](https://skillicons.dev)
@@ -24,6 +25,7 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 
 > ### Outside of code: 
 > ![stack](https://skillicons.dev/icons?i=au,pr,ae,ps,blender,unity,godot,md,notion,spotify&perline=12)
+ <hr>
 
 ## About Me
 
