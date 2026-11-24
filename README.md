@@ -37,6 +37,6 @@ I was born in Tallinn, Estonia. I translate songs for my YouTube channel and als
 
 #### ───── **Fun Fact** ─ If I had to describe myself, I'd say I'm an extreme early bird. I wake up between 4 and 6 a.m. every day and go to bed around 9 p.m., much earlier than most people... I'm also very pedantic and a perfectionist. I notice small details and care deeply about them — whether it's my physical desk or digital space, everything stays tidy and organized!
 
-─── I use a different account for work. This is my personal account (and I use it a little for studying) so there's nothing on it. ───
+───── I use a different account for work. This is my personal account (and I use it a little for studying) so there's nothing on it. ─────
 
 ## Thanks For Visiting, See You Later! *(Maybe)*
